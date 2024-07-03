@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "30555597057",
+    "project_id": "notifications-11b5b",
+    "storage_bucket": "notifications-11b5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30555597057:android:d6c4313bb532e464651300",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyHevzxnO6dPJEc2VutLTzOh4z-cJII84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

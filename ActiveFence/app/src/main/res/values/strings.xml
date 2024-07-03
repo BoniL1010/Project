@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="notifications_pop_up_title">Notifications</string>
+    <string name="notifications_pop_up_message">In order to help you filter spam notifications we kindly ask you to provide us a Notifications Listener Permission. All notifications that we filter will be stored only locally and will not be transmitted to any third party.</string>
+</resources>
